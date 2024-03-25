@@ -1,3 +1,19 @@
+#Funciones
+
+La aplicacion usa el api openlibrary.org para el listado de libros, muchas de las portadas no existen por los que se pueden ver portadas en blanco, se pueden seleccionar los libros al darle click se colocan en el listado de lectura, y al darle click en el listado de lectura se eliminan del mismo. 
+
+En el listado de categorias al darle click se busca por esa categoria 
+
+Tambien se puede ingresar texto en el buscador.
+
+La lista de lectura se guarda en el localStorage.
+
+Esta publicado en https://6601d7cfc1dfcf3fdc4895ae--readlistbook.netlify.app/
+
+
+
+
+
 # Books
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
